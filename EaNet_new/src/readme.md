@@ -2,4 +2,6 @@
 ```
   https://drive.google.com/drive/folders/120E6pHoTm2_KSbWpj3KLRqIwIchVM86A?usp=sharing
 ```
+# 2. Copy downloaded data to this folder.
+
 
